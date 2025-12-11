@@ -31,7 +31,7 @@
 - `SYNC_TIME`: Tiempo de sincronización inicial (default: 10000 ms).
 - `SYNC_MSG_FREQUENCY`: Frecuencia (en ms) con la que se envían mensajes de sincronización (default: 1000 ms).
 - `BATTERY_MSG_FREQUENCY`: Frecuencia (en ms) con la que se envían actualizaciones de batería (default: 1000 ms).
-- `DATA_MSG_FREQUENCY`: Frecuencia (en Hz) con la que se envían datos de sensores (default: 10 Hz).
+- `DATA_MSG_FREQUENCY`: Frecuencia (en ms) con la que se envían datos de sensores (default: 10 ms).
 
 #### Variables Globales
 

@@ -40,8 +40,8 @@ Note: Version 1.4.4 of the ElectronicsCats mpu6050 library may cause issues when
 #define SYNC_TIME 20000
 #define IDENTIFY_TIME 10000
 #define DATA_FREQUENCY_TIME 10 //ms
-#define BATTERY_FREQUENCY_TIME 1000 //ms (1min)
-#define CONNECT_TRY_TIME 1000 //ms (10s)
+#define BATTERY_FREQUENCY_TIME 1000 //ms
+#define CONNECT_TRY_TIME 1000 //ms
 #define ALIVE_TIMEOUT 3000 //ms
 #define ALIVE_MSG_FREQUENCY 1000 //ms
 #define DEBOUNCING_TIME 5 //ms
